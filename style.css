@@ -41,7 +41,10 @@ p {
  	font-size:35px;
  	color:black;
  }
- 
+ li{
+	padding-right: 30px;
+	display: inline;
+}
  #bio {
  /*	line-height: 1.5;
  	font-size:20px;*/
