@@ -1,0 +1,88 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+p {
+	line-height: 1.5;
+	font-size: 20px;
+}
+
+.landing {
+/*dot -> class*/
+	text-align: center;
+	font-family: fantasy;
+	font-size: 20px;
+	background: #373737;
+	padding:100px;
+	color:white;    
+ 	
+ }
+ .aboutMe {
+ 	width: 40%;				
+ 	padding:100px;
+ 	background:white ;
+ 	color:black;
+
+
+ }
+
+.resume {
+	color:white;
+	text-decoration: none;	
+}
+
+.resume:hover{
+	color:blue;
+}
+
+ .aboutMe h2 {
+ 	text-decoration: underline;
+ 	font-size:35px;
+ 	color:black;
+ }
+ 
+ #bio {
+ /*	line-height: 1.5;
+ 	font-size:20px;*/
+ }
+
+ .container {
+ 	width: 80%;
+ 	margin: 0 auto;
+ }
+
+ .picContainer {
+ 	background: grey;
+ 	height:350px;
+ }
+
+ .picContainer p {
+ 	width: 20%;
+ 	float:left;
+ 	color:white;
+ 	padding:150px;
+ }
+
+.picContainer img {
+	width:40%;
+	float:right;
+	
+}
+.youtube {
+	height: 430px;
+}
+
+.youtube p {
+
+}
+
+.youtube iframe {
+
+
+}
+
+
+footer {
+
+}
