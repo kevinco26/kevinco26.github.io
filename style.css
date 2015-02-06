@@ -26,7 +26,9 @@ p {
 
 
  }
-
+.github {
+	text-decoration: none;
+}
 .resume {
 	color:white;
 	text-decoration: none;	
