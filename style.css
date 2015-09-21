@@ -13,12 +13,12 @@ p {
 	text-align: center;
 	font-family: fantasy;
 	font-size: 20px;
-	background: #373737;
-	padding:50px;
+	/*background: #63B8FF;*/
+	padding:100px;
 	color:white;    
  	
  }
- .aboutMe {
+ /*.aboutMe {
  	text-align: center;
 	font-family: times;
 	font-size: 20px;
@@ -26,7 +26,7 @@ p {
 	padding:50px;
 	color:white; 
 
- }
+ }*/
 .github {
 	text-decoration: none;
 }
@@ -54,11 +54,11 @@ p {
  }
 
  .container {
- 	width: 80%;
+ 	width: 100%;
  	margin: 0 auto;
  }
 
- .picContainer {
+/* .picContainer {
  	background: red;
  	height:350px;
  }
@@ -76,3 +76,4 @@ p {
 	
 }
 
+*/
