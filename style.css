@@ -11,8 +11,8 @@ p {
 .landing {
 /*dot -> class*/
 	text-align: center;
-	font-family: fantasy;
-	font-size: 20px;
+	font-family: 'Copperplate';
+	font-size: 25px;
 	/*background: #63B8FF;*/
 	padding:100px;
 	color:white;    
